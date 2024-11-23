@@ -1,8 +1,27 @@
 const root = document.querySelector(':root');
 
 const projectNames = [
-	'alduinswall', 'bbq', 'circleclock', 'computercase', 'modeltable', 'portablespeaker', 'powersupply', 'radiokist', 'rcboat', 'rccar',
-	'schoolprojectsamplepicker', 'stagearexx', 'stagehoentjencreatie', 'stagetekendesign', 'surroundschakelaar', 'surroundset', 'theaterlamp'
+	'stainedglasslamp',
+	'portablespeakerv2',
+	'lightglasses',
+	'rocketstove',
+	'theaterlamp',
+	'surroundset',
+	'surroundschakelaar',
+	'powersupply',
+	'circleclock',
+	'modeltable',
+	'computercase',
+	'alduinswall',
+	'schoolprojectsamplepicker',
+	'stagearexx',
+	'stagehoentjencreatie',
+	'stagetekendesign',
+	'bbq',
+	'portablespeaker',
+	'radiokist',
+	'rcboat',
+	'rccar'
 ];
 
 function getRandomInt(max) {
